@@ -1,2 +1,0 @@
-Source changelog:-
-* Add dynamic gms spoofing

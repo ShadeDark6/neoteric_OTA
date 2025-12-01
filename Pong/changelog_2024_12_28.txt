@@ -1,3 +1,0 @@
-Source changelog:-
-
-* Revert back to AOSP VRR behaviour

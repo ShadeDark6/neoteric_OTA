@@ -1,2 +1,0 @@
-Source changelog:-
-* Fixup swipe to screenshot on ambient switch in Settings.

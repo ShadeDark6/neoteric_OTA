@@ -1,4 +1,0 @@
-Source changes:-
-* Fixed Black Theme
-* Add dual tone QS
-* Added network access firewall

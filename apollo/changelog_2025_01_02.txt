@@ -1,6 +1,0 @@
-Device:
-* Fix GoogleCamera
-
-Source:
-* Add LMOFreeform
-* Allow to hide apps in launcher
